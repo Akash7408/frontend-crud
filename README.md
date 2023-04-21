@@ -6,8 +6,12 @@ json-srver :>
 *************************************
 step 1:> clone this repo
 
-step2:> >npm install
+step2:> 
 
-step:> >npm start
+       >npm install
+
+step:> 
+        
+        >npm start
 
 finely run the code 
